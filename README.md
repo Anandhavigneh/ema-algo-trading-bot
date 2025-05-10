@@ -1,0 +1,1 @@
+# ema-algo-trading-bot
