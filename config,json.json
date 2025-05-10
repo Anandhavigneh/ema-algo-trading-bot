@@ -1,0 +1,20 @@
+{
+    "binance": {
+        "api_key": "YOUR_API_KEY",
+        "api_secret": "YOUR_API_SECRET"
+    },
+    "selected_coins": [
+        "BTC/USDT",
+        "ETH/USDT"
+    ],
+    "parameters": {
+        "ema1": 21,
+        "ema2": 60,
+        "ema3": 365,
+        "tp": 0.5,
+        "sl": 2,
+        "exitmin": 2,
+        "use_exitmin": true,
+        "timeframe": "1m"
+    }
+}

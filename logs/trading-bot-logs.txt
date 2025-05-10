@@ -1,0 +1,496 @@
+2025-05-10 08:15:21,659 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:21,979 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:22,142 - INFO - Fetched 500 candles for GTC/USDT on 1m timeframe
+2025-05-10 08:15:23,096 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:23,419 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:23,581 - INFO - Fetched 500 candles for NKN/USDT on 1m timeframe
+2025-05-10 08:15:24,700 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:24,956 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:25,100 - INFO - Fetched 500 candles for PEOPLE/USDT on 1m timeframe
+2025-05-10 08:15:26,137 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:26,380 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:26,619 - INFO - Fetched 500 candles for GALA/USDT on 1m timeframe
+2025-05-10 08:15:27,504 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:27,739 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:27,981 - INFO - Fetched 500 candles for DYDX/USDT on 1m timeframe
+2025-05-10 08:15:28,857 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:29,099 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:15:29,343 - INFO - Fetched 500 candles for OP/USDT on 1m timeframe
+2025-05-10 08:15:30,140 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:30,378 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:30,621 - INFO - Fetched 500 candles for GMT/USDT on 1m timeframe
+2025-05-10 08:15:31,578 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:31,819 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:32,060 - INFO - Fetched 500 candles for APE/USDT on 1m timeframe
+2025-05-10 08:15:32,703 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:33,099 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:33,263 - INFO - Fetched 500 candles for API3/USDT on 1m timeframe
+2025-05-10 08:15:34,062 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:34,379 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:34,463 - INFO - Fetched 500 candles for FET/USDT on 1m timeframe
+2025-05-10 08:15:35,341 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:35,658 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:35,744 - INFO - Fetched 500 candles for APT/USDT on 1m timeframe
+2025-05-10 08:15:36,779 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:37,100 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:37,263 - INFO - Fetched 500 candles for LDO/USDT on 1m timeframe
+2025-05-10 08:15:38,061 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:38,378 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:38,462 - INFO - Fetched 500 candles for HIGH/USDT on 1m timeframe
+2025-05-10 08:15:39,339 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:39,658 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:39,819 - INFO - Fetched 500 candles for MAGIC/USDT on 1m timeframe
+2025-05-10 08:15:40,537 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:40,863 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:15:41,022 - INFO - Fetched 500 candles for ARB/USDT on 1m timeframe
+2025-05-10 08:15:41,906 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:42,220 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:42,303 - INFO - Fetched 500 candles for PERP/USDT on 1m timeframe
+2025-05-10 08:15:43,023 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:43,338 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:15:43,577 - INFO - Fetched 500 candles for ACH/USDT on 1m timeframe
+2025-05-10 08:15:44,238 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:44,698 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:44,783 - INFO - Fetched 500 candles for STX/USDT on 1m timeframe
+2025-05-10 08:15:45,577 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:45,899 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:46,063 - INFO - Fetched 500 candles for SUI/USDT on 1m timeframe
+2025-05-10 08:15:46,857 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:47,178 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:15:47,263 - INFO - Fetched 500 candles for PENDLE/USDT on 1m timeframe
+2025-05-10 08:15:48,068 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:48,379 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:48,544 - INFO - Fetched 500 candles for WLD/USDT on 1m timeframe
+2025-05-10 08:15:49,339 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:49,659 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:49,743 - INFO - Fetched 500 candles for AGLD/USDT on 1m timeframe
+2025-05-10 08:15:50,624 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:50,885 - INFO - Time synchronized with Binance server. Offset: -3ms
+2025-05-10 08:15:51,016 - INFO - Fetched 500 candles for ARKM/USDT on 1m timeframe
+2025-05-10 08:15:51,981 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:52,297 - INFO - Time synchronized with Binance server. Offset: -65ms
+2025-05-10 08:15:52,463 - INFO - Fetched 500 candles for ARK/USDT on 1m timeframe
+2025-05-10 08:15:53,423 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:53,658 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:53,903 - INFO - Fetched 500 candles for HIFI/USDT on 1m timeframe
+2025-05-10 08:15:54,779 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:55,018 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:15:55,262 - INFO - Fetched 500 candles for SEI/USDT on 1m timeframe
+2025-05-10 08:15:56,063 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:56,299 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:56,464 - INFO - Fetched 500 candles for YGG/USDT on 1m timeframe
+2025-05-10 08:15:57,342 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:57,576 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:15:57,639 - INFO - Fetched 500 candles for NEIRO/USDT on 1m timeframe
+2025-05-10 08:15:58,055 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:58,310 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:15:58,378 - INFO - Fetched 500 candles for PNUT/USDT on 1m timeframe
+2025-05-10 08:15:58,937 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:15:59,939 - INFO - Waiting 2.00 seconds until the next 1m candle close at 2025-05-10 08:16:00+00:00
+2025-05-10 08:16:02,194 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:16:02,265 - INFO - Fetched 500 candles for XLM/USDT on 1m timeframe
+2025-05-10 08:16:02,537 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:02,859 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:03,021 - INFO - Fetched 500 candles for ATOM/USDT on 1m timeframe
+2025-05-10 08:16:03,823 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:04,297 - INFO - Time synchronized with Binance server. Offset: -161ms
+2025-05-10 08:16:04,459 - INFO - Fetched 500 candles for ADA/USDT on 1m timeframe
+2025-05-10 08:16:05,179 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:05,500 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:05,584 - INFO - Fetched 500 candles for XTZ/USDT on 1m timeframe
+2025-05-10 08:16:06,457 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:06,779 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:06,941 - INFO - Fetched 500 candles for IOTA/USDT on 1m timeframe
+2025-05-10 08:16:07,822 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:08,218 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:08,382 - INFO - Fetched 500 candles for ALGO/USDT on 1m timeframe
+2025-05-10 08:16:09,308 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:09,736 - INFO - Time synchronized with Binance server. Offset: -66ms
+2025-05-10 08:16:09,828 - INFO - Fetched 500 candles for THETA/USDT on 1m timeframe
+2025-05-10 08:16:10,862 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:11,098 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:11,258 - INFO - Fetched 500 candles for VET/USDT on 1m timeframe
+2025-05-10 08:16:12,060 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:12,299 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:12,457 - INFO - Fetched 500 candles for SXP/USDT on 1m timeframe
+2025-05-10 08:16:13,420 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:13,659 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:13,747 - INFO - Fetched 500 candles for STORJ/USDT on 1m timeframe
+2025-05-10 08:16:14,620 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:14,938 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:15,018 - INFO - Fetched 500 candles for RUNE/USDT on 1m timeframe
+2025-05-10 08:16:15,820 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:16,138 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:16,302 - INFO - Fetched 500 candles for SUSHI/USDT on 1m timeframe
+2025-05-10 08:16:17,105 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:17,579 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:17,662 - INFO - Fetched 500 candles for CRV/USDT on 1m timeframe
+2025-05-10 08:16:18,545 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:18,950 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:19,097 - INFO - Fetched 500 candles for AXS/USDT on 1m timeframe
+2025-05-10 08:16:21,265 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:21,578 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:21,737 - INFO - Fetched 500 candles for BEL/USDT on 1m timeframe
+2025-05-10 08:16:22,622 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:22,859 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:23,099 - INFO - Fetched 500 candles for NEAR/USDT on 1m timeframe
+2025-05-10 08:16:24,061 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:24,298 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:24,458 - INFO - Fetched 500 candles for FIL/USDT on 1m timeframe
+2025-05-10 08:16:25,421 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:25,660 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:25,900 - INFO - Fetched 500 candles for FLM/USDT on 1m timeframe
+2025-05-10 08:16:26,857 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:27,098 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:27,260 - INFO - Fetched 500 candles for ENJ/USDT on 1m timeframe
+2025-05-10 08:16:28,136 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:28,378 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:28,620 - INFO - Fetched 500 candles for SAND/USDT on 1m timeframe
+2025-05-10 08:16:29,497 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:29,738 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:29,828 - INFO - Fetched 500 candles for CHZ/USDT on 1m timeframe
+2025-05-10 08:16:30,863 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:31,066 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:31,256 - INFO - Fetched 500 candles for GRT/USDT on 1m timeframe
+2025-05-10 08:16:32,299 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:32,539 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:32,627 - INFO - Fetched 500 candles for MANA/USDT on 1m timeframe
+2025-05-10 08:16:33,581 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:33,819 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:34,061 - INFO - Fetched 500 candles for COTI/USDT on 1m timeframe
+2025-05-10 08:16:35,017 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:35,258 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:35,501 - INFO - Fetched 500 candles for MASK/USDT on 1m timeframe
+2025-05-10 08:16:36,300 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:36,539 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:36,780 - INFO - Fetched 500 candles for C98/USDT on 1m timeframe
+2025-05-10 08:16:37,737 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:37,979 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:38,217 - INFO - Fetched 500 candles for GTC/USDT on 1m timeframe
+2025-05-10 08:16:39,177 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:39,420 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:16:39,502 - INFO - Fetched 500 candles for NKN/USDT on 1m timeframe
+2025-05-10 08:16:40,223 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:40,538 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:40,700 - INFO - Fetched 500 candles for PEOPLE/USDT on 1m timeframe
+2025-05-10 08:16:41,503 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:41,897 - INFO - Time synchronized with Binance server. Offset: -133ms
+2025-05-10 08:16:41,989 - INFO - Fetched 500 candles for GALA/USDT on 1m timeframe
+2025-05-10 08:16:42,938 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:43,179 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:16:43,336 - INFO - Fetched 500 candles for DYDX/USDT on 1m timeframe
+2025-05-10 08:16:44,060 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:44,299 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:44,540 - INFO - Fetched 500 candles for OP/USDT on 1m timeframe
+2025-05-10 08:16:45,259 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:45,499 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:16:45,740 - INFO - Fetched 500 candles for GMT/USDT on 1m timeframe
+2025-05-10 08:16:46,385 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:46,620 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:16:46,860 - INFO - Fetched 500 candles for APE/USDT on 1m timeframe
+2025-05-10 08:16:47,659 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:47,899 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:47,984 - INFO - Fetched 500 candles for API3/USDT on 1m timeframe
+2025-05-10 08:16:48,944 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:49,154 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:49,263 - INFO - Fetched 500 candles for FET/USDT on 1m timeframe
+2025-05-10 08:16:50,381 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:50,628 - INFO - Time synchronized with Binance server. Offset: -8ms
+2025-05-10 08:16:50,776 - INFO - Fetched 500 candles for APT/USDT on 1m timeframe
+2025-05-10 08:16:51,659 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:51,899 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:52,140 - INFO - Fetched 500 candles for LDO/USDT on 1m timeframe
+2025-05-10 08:16:53,104 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:53,344 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:16:53,582 - INFO - Fetched 500 candles for HIGH/USDT on 1m timeframe
+2025-05-10 08:16:54,617 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:54,859 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:54,948 - INFO - Fetched 500 candles for MAGIC/USDT on 1m timeframe
+2025-05-10 08:16:55,825 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:56,058 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:56,300 - INFO - Fetched 500 candles for ARB/USDT on 1m timeframe
+2025-05-10 08:16:57,020 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:57,259 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:57,501 - INFO - Fetched 500 candles for PERP/USDT on 1m timeframe
+2025-05-10 08:16:58,458 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:58,699 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:16:58,939 - INFO - Fetched 500 candles for ACH/USDT on 1m timeframe
+2025-05-10 08:16:59,583 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:16:59,820 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:00,060 - INFO - Fetched 500 candles for STX/USDT on 1m timeframe
+2025-05-10 08:17:00,860 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:01,099 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:01,497 - INFO - Fetched 500 candles for SUI/USDT on 1m timeframe
+2025-05-10 08:17:02,302 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:02,539 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:17:02,779 - INFO - Fetched 500 candles for PENDLE/USDT on 1m timeframe
+2025-05-10 08:17:03,738 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:03,979 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:17:04,070 - INFO - Fetched 500 candles for WLD/USDT on 1m timeframe
+2025-05-10 08:17:05,018 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:05,259 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:05,419 - INFO - Fetched 500 candles for AGLD/USDT on 1m timeframe
+2025-05-10 08:17:06,221 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:06,459 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:17:06,700 - INFO - Fetched 500 candles for ARKM/USDT on 1m timeframe
+2025-05-10 08:17:07,337 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:07,579 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:17:07,821 - INFO - Fetched 500 candles for ARK/USDT on 1m timeframe
+2025-05-10 08:17:08,619 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:08,858 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:09,100 - INFO - Fetched 500 candles for HIFI/USDT on 1m timeframe
+2025-05-10 08:17:09,902 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:10,142 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:10,300 - INFO - Fetched 500 candles for SEI/USDT on 1m timeframe
+2025-05-10 08:17:10,943 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:11,149 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:11,212 - INFO - Fetched 500 candles for YGG/USDT on 1m timeframe
+2025-05-10 08:17:11,659 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:11,912 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:11,979 - INFO - Fetched 500 candles for NEIRO/USDT on 1m timeframe
+2025-05-10 08:17:12,462 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:12,715 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:17:12,779 - INFO - Fetched 500 candles for PNUT/USDT on 1m timeframe
+2025-05-10 08:17:13,263 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:17:14,265 - INFO - Waiting 47.00 seconds until the next 1m candle close at 2025-05-10 08:18:00+00:00
+2025-05-10 08:18:01,528 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:01,595 - INFO - Fetched 500 candles for XLM/USDT on 1m timeframe
+2025-05-10 08:18:01,657 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:01,910 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:01,973 - INFO - Fetched 500 candles for ATOM/USDT on 1m timeframe
+2025-05-10 08:18:02,069 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:02,323 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:02,386 - INFO - Fetched 500 candles for ADA/USDT on 1m timeframe
+2025-05-10 08:18:02,480 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:02,733 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:02,795 - INFO - Fetched 500 candles for XTZ/USDT on 1m timeframe
+2025-05-10 08:18:02,894 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:03,149 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:03,213 - INFO - Fetched 500 candles for IOTA/USDT on 1m timeframe
+2025-05-10 08:18:03,316 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:03,570 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:03,633 - INFO - Fetched 500 candles for ALGO/USDT on 1m timeframe
+2025-05-10 08:18:03,738 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:03,992 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:04,054 - INFO - Fetched 500 candles for THETA/USDT on 1m timeframe
+2025-05-10 08:18:04,150 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:04,403 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:18:04,466 - INFO - Fetched 500 candles for VET/USDT on 1m timeframe
+2025-05-10 08:18:04,559 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:04,813 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:04,876 - INFO - Fetched 500 candles for SXP/USDT on 1m timeframe
+2025-05-10 08:18:04,967 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:05,220 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:05,283 - INFO - Fetched 500 candles for STORJ/USDT on 1m timeframe
+2025-05-10 08:18:05,378 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:05,631 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:05,694 - INFO - Fetched 500 candles for RUNE/USDT on 1m timeframe
+2025-05-10 08:18:05,799 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:06,054 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:06,116 - INFO - Fetched 500 candles for SUSHI/USDT on 1m timeframe
+2025-05-10 08:18:06,229 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:06,483 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:06,558 - INFO - Fetched 500 candles for CRV/USDT on 1m timeframe
+2025-05-10 08:18:06,659 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:06,912 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:06,975 - INFO - Fetched 500 candles for AXS/USDT on 1m timeframe
+2025-05-10 08:18:07,084 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:07,337 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:07,410 - INFO - Fetched 500 candles for BEL/USDT on 1m timeframe
+2025-05-10 08:18:07,512 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:07,766 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:07,839 - INFO - Fetched 500 candles for NEAR/USDT on 1m timeframe
+2025-05-10 08:18:07,935 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:08,188 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:08,262 - INFO - Fetched 500 candles for FIL/USDT on 1m timeframe
+2025-05-10 08:18:08,364 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:08,617 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:08,685 - INFO - Fetched 500 candles for FLM/USDT on 1m timeframe
+2025-05-10 08:18:08,797 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:09,050 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:18:09,132 - INFO - Fetched 500 candles for ENJ/USDT on 1m timeframe
+2025-05-10 08:18:09,235 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:09,486 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:09,555 - INFO - Fetched 500 candles for SAND/USDT on 1m timeframe
+2025-05-10 08:18:09,669 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:09,921 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:09,983 - INFO - Fetched 500 candles for CHZ/USDT on 1m timeframe
+2025-05-10 08:18:10,098 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:10,351 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:10,432 - INFO - Fetched 500 candles for GRT/USDT on 1m timeframe
+2025-05-10 08:18:10,541 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:10,788 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:10,860 - INFO - Fetched 500 candles for MANA/USDT on 1m timeframe
+2025-05-10 08:18:10,970 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:11,223 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:11,301 - INFO - Fetched 500 candles for COTI/USDT on 1m timeframe
+2025-05-10 08:18:11,403 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:11,652 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:11,731 - INFO - Fetched 500 candles for MASK/USDT on 1m timeframe
+2025-05-10 08:18:11,836 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:12,083 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:12,145 - INFO - Fetched 500 candles for C98/USDT on 1m timeframe
+2025-05-10 08:18:12,275 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:12,530 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:12,592 - INFO - Fetched 500 candles for GTC/USDT on 1m timeframe
+2025-05-10 08:18:12,714 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:12,969 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:13,043 - INFO - Fetched 500 candles for NKN/USDT on 1m timeframe
+2025-05-10 08:18:13,161 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:13,414 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:13,492 - INFO - Fetched 500 candles for PEOPLE/USDT on 1m timeframe
+2025-05-10 08:18:13,601 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:13,854 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:13,917 - INFO - Fetched 500 candles for GALA/USDT on 1m timeframe
+2025-05-10 08:18:14,049 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:14,302 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:14,365 - INFO - Fetched 500 candles for DYDX/USDT on 1m timeframe
+2025-05-10 08:18:14,486 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:14,740 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:14,809 - INFO - Fetched 500 candles for OP/USDT on 1m timeframe
+2025-05-10 08:18:14,934 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:15,187 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:15,262 - INFO - Fetched 500 candles for GMT/USDT on 1m timeframe
+2025-05-10 08:18:15,383 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:15,636 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:15,709 - INFO - Fetched 500 candles for APE/USDT on 1m timeframe
+2025-05-10 08:18:15,826 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:16,080 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:16,161 - INFO - Fetched 500 candles for API3/USDT on 1m timeframe
+2025-05-10 08:18:16,383 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:16,629 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:16,861 - INFO - Fetched 500 candles for FET/USDT on 1m timeframe
+2025-05-10 08:18:17,895 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:18,138 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:18,380 - INFO - Fetched 500 candles for APT/USDT on 1m timeframe
+2025-05-10 08:18:20,061 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:20,303 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:18:20,623 - INFO - Fetched 500 candles for LDO/USDT on 1m timeframe
+2025-05-10 08:18:21,823 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:22,059 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:23,824 - INFO - Fetched 500 candles for HIGH/USDT on 1m timeframe
+2025-05-10 08:18:25,017 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:25,257 - INFO - Time synchronized with Binance server. Offset: -37ms
+2025-05-10 08:18:25,417 - INFO - Fetched 500 candles for MAGIC/USDT on 1m timeframe
+2025-05-10 08:18:26,302 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:26,539 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:26,704 - INFO - Fetched 500 candles for ARB/USDT on 1m timeframe
+2025-05-10 08:18:27,819 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:28,072 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:28,216 - INFO - Fetched 500 candles for PERP/USDT on 1m timeframe
+2025-05-10 08:18:29,181 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:29,422 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:29,660 - INFO - Fetched 500 candles for ACH/USDT on 1m timeframe
+2025-05-10 08:18:30,544 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:30,779 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:31,020 - INFO - Fetched 500 candles for STX/USDT on 1m timeframe
+2025-05-10 08:18:31,977 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:32,218 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:32,381 - INFO - Fetched 500 candles for SUI/USDT on 1m timeframe
+2025-05-10 08:18:33,181 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:33,496 - INFO - Time synchronized with Binance server. Offset: -28ms
+2025-05-10 08:18:33,663 - INFO - Fetched 500 candles for PENDLE/USDT on 1m timeframe
+2025-05-10 08:18:34,537 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:34,778 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:35,024 - INFO - Fetched 500 candles for WLD/USDT on 1m timeframe
+2025-05-10 08:18:35,979 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:36,218 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:36,460 - INFO - Fetched 500 candles for AGLD/USDT on 1m timeframe
+2025-05-10 08:18:37,342 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:37,578 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:18:37,817 - INFO - Fetched 500 candles for ARKM/USDT on 1m timeframe
+2025-05-10 08:18:38,621 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:38,858 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:39,016 - INFO - Fetched 500 candles for ARK/USDT on 1m timeframe
+2025-05-10 08:18:39,928 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:40,138 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:40,380 - INFO - Fetched 500 candles for HIFI/USDT on 1m timeframe
+2025-05-10 08:18:41,259 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:41,499 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:41,588 - INFO - Fetched 500 candles for SEI/USDT on 1m timeframe
+2025-05-10 08:18:42,618 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:42,859 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:42,941 - INFO - Fetched 500 candles for YGG/USDT on 1m timeframe
+2025-05-10 08:18:43,819 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:44,138 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:18:44,151 - INFO - Fetched 500 candles for NEIRO/USDT on 1m timeframe
+2025-05-10 08:18:44,698 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:44,952 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:18:45,016 - INFO - Fetched 500 candles for PNUT/USDT on 1m timeframe
+2025-05-10 08:18:45,426 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:18:46,428 - INFO - Waiting 15.00 seconds until the next 1m candle close at 2025-05-10 08:19:00+00:00
+2025-05-10 08:19:01,690 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:01,753 - INFO - Fetched 500 candles for XLM/USDT on 1m timeframe
+2025-05-10 08:19:01,877 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:02,130 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:19:02,199 - INFO - Fetched 500 candles for ATOM/USDT on 1m timeframe
+2025-05-10 08:19:02,320 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:02,575 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:19:02,638 - INFO - Fetched 500 candles for ADA/USDT on 1m timeframe
+2025-05-10 08:19:02,768 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:03,022 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:03,083 - INFO - Fetched 500 candles for XTZ/USDT on 1m timeframe
+2025-05-10 08:19:03,203 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:03,458 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:19:03,522 - INFO - Fetched 500 candles for IOTA/USDT on 1m timeframe
+2025-05-10 08:19:03,646 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:03,899 - INFO - Time synchronized with Binance server. Offset: 0ms
+2025-05-10 08:19:03,961 - INFO - Fetched 500 candles for ALGO/USDT on 1m timeframe
+2025-05-10 08:19:04,078 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:04,346 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:04,419 - INFO - Fetched 500 candles for THETA/USDT on 1m timeframe
+2025-05-10 08:19:04,530 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:04,783 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:04,848 - INFO - Fetched 500 candles for VET/USDT on 1m timeframe
+2025-05-10 08:19:04,970 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:05,222 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:05,284 - INFO - Fetched 500 candles for SXP/USDT on 1m timeframe
+2025-05-10 08:19:05,405 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:05,659 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:05,731 - INFO - Fetched 500 candles for STORJ/USDT on 1m timeframe
+2025-05-10 08:19:05,853 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:06,106 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:06,168 - INFO - Fetched 500 candles for RUNE/USDT on 1m timeframe
+2025-05-10 08:19:06,542 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:06,939 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:07,023 - INFO - Fetched 500 candles for SUSHI/USDT on 1m timeframe
+2025-05-10 08:19:07,978 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:08,299 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:08,383 - INFO - Fetched 500 candles for CRV/USDT on 1m timeframe
+2025-05-10 08:19:09,258 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:09,577 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:09,738 - INFO - Fetched 500 candles for AXS/USDT on 1m timeframe
+2025-05-10 08:19:10,698 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:11,019 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:11,102 - INFO - Fetched 500 candles for BEL/USDT on 1m timeframe
+2025-05-10 08:19:11,980 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:12,299 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:19:12,384 - INFO - Fetched 500 candles for NEAR/USDT on 1m timeframe
+2025-05-10 08:19:13,260 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:13,579 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:13,740 - INFO - Fetched 500 candles for FIL/USDT on 1m timeframe
+2025-05-10 08:19:14,702 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:15,020 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:15,103 - INFO - Fetched 500 candles for FLM/USDT on 1m timeframe
+2025-05-10 08:19:16,058 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:16,058 - INFO - [FLM/USDT] First crossover by EMA2 above EMA3 at 2025-05-10 08:18:00
+2025-05-10 08:19:16,379 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:16,540 - INFO - Fetched 500 candles for ENJ/USDT on 1m timeframe
+2025-05-10 08:19:17,181 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:17,498 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:17,581 - INFO - Fetched 500 candles for SAND/USDT on 1m timeframe
+2025-05-10 08:19:18,460 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:18,778 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:18,863 - INFO - Fetched 500 candles for CHZ/USDT on 1m timeframe
+2025-05-10 08:19:19,822 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:20,138 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:20,219 - INFO - Fetched 500 candles for GRT/USDT on 1m timeframe
+2025-05-10 08:19:21,021 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:21,339 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:21,419 - INFO - Fetched 500 candles for MANA/USDT on 1m timeframe
+2025-05-10 08:19:22,378 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:22,699 - INFO - Time synchronized with Binance server. Offset: -1ms
+2025-05-10 08:19:22,783 - INFO - Fetched 500 candles for COTI/USDT on 1m timeframe
+2025-05-10 08:19:23,660 - INFO - Calculated EMAs for 500 candles: EMA1=21, EMA2=60, EMA3=365
+2025-05-10 08:19:23,979 - INFO - Time synchronized with Binance server. Offset: -2ms
+2025-05-10 08:19:24,142 - INFO - Fetched 500 candles for MASK/USDT on 1m timeframe
