@@ -43,4 +43,5 @@ A Python-based trading bot for Binance futures that uses an EMA crossover strate
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ema-long-trading-bot.git
+
    cd ema-long-trading-bot
